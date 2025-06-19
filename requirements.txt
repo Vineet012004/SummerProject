@@ -1,0 +1,19 @@
+# requirements.txt
+
+# Reddit API & data manipulation
+praw==7.7.1
+pandas>=2.2
+numpy>=1.24
+
+# Stock data & time series
+yfinance>=0.2
+statsmodels>=0.14
+
+# NLP
+nltk>=3.8
+
+# Environment
+python-dotenv>=1.0
+
+# Plotting
+matplotlib>=3.6
